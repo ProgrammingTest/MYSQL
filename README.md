@@ -1,4 +1,4 @@
-# MYSQL
+# MYSQL   (Total Time Spend : 1 hour)
 1. Index All Columns Used in 'where', 'order by', and 'group by' Clauses and on clauses in join table
 
 2. Use MySQL full-text search (FTS) because it is far much faster than queries using wildcard characters.
